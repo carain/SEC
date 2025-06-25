@@ -1,2 +1,11 @@
 # SEC
-Seismic event classify
+Seismic Event Classification
+
+
+
+
+
+
+
+
+

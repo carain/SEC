@@ -1,11 +1,7 @@
 # SEC
 Seismic Event Classification
 
-波形事件分类程序
 
-数据范围：福建及周边
-
-数据时间：2011年至2023年
 
 使用说明：
 
